@@ -1,4 +1,4 @@
-package damboat;
+package damboat.src;
 
 public class MainBarcos {
     // Clases: MiClase
